@@ -1,0 +1,53 @@
+--- !ruby/object:Gem::Specification
+name: a_slow_gem
+version: !ruby/object:Gem::Version
+  version: 0.0.1
+  prerelease: 
+platform: ruby
+authors:
+- Mat Schaffer
+autorequire: 
+bindir: bin
+cert_chain: []
+date: 2013-01-29 00:00:00.000000000 Z
+dependencies: []
+description: Write a gem description
+email:
+- mat@schaffer.me
+executables: []
+extensions: []
+extra_rdoc_files: []
+files:
+- .gitignore
+- Gemfile
+- LICENSE.txt
+- README.md
+- Rakefile
+- a_slow_gem.gemspec
+- lib/a_slow_gem.rb
+- lib/a_slow_gem/version.rb
+homepage: ''
+licenses: []
+post_install_message: 
+rdoc_options: []
+require_paths:
+- lib
+required_ruby_version: !ruby/object:Gem::Requirement
+  none: false
+  requirements:
+  - - ! '>='
+    - !ruby/object:Gem::Version
+      version: '0'
+required_rubygems_version: !ruby/object:Gem::Requirement
+  none: false
+  requirements:
+  - - ! '>='
+    - !ruby/object:Gem::Version
+      version: '0'
+requirements: []
+rubyforge_project: 
+rubygems_version: 1.8.24
+signing_key: 
+specification_version: 3
+summary: Write a gem summary
+test_files: []
